@@ -1,3 +1,15 @@
-# student-marks-analyzer-Lists
-A simple python project that analyzes student marks and shows total, average, highest and pass count using lists and loops.
-Author- Dikshit Sharma
+# Student Marks Analyzer
+
+## Features
+- Calculates total marks
+- Calculates average marks
+- Counts total students
+- Counts students who passed
+- Finds highest marks
+- Finds lowest marks
+
+## Language
+Python
+
+## Author
+Dikshit Sharma
